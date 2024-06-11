@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3622210637
+    locked: 0
+  - name: XyloBox
+    uniqueID: 2613558091
+    locked: 0
+  - name: Keys
+    uniqueID: 1725982755
+    locked: 0
+  - name: Wildcards
+    uniqueID: 1704600313
+    locked: 0
